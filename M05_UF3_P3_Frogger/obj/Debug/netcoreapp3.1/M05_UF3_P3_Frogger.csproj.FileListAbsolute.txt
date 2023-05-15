@@ -1,0 +1,14 @@
+/Users/rvst/Desktop/M05_UF3_P3_Frogger-master/M05_UF3_P3_Frogger/bin/Debug/netcoreapp3.1/M05_UF3_P3_Frogger
+/Users/rvst/Desktop/M05_UF3_P3_Frogger-master/M05_UF3_P3_Frogger/bin/Debug/netcoreapp3.1/M05_UF3_P3_Frogger.deps.json
+/Users/rvst/Desktop/M05_UF3_P3_Frogger-master/M05_UF3_P3_Frogger/bin/Debug/netcoreapp3.1/M05_UF3_P3_Frogger.runtimeconfig.json
+/Users/rvst/Desktop/M05_UF3_P3_Frogger-master/M05_UF3_P3_Frogger/bin/Debug/netcoreapp3.1/M05_UF3_P3_Frogger.runtimeconfig.dev.json
+/Users/rvst/Desktop/M05_UF3_P3_Frogger-master/M05_UF3_P3_Frogger/bin/Debug/netcoreapp3.1/M05_UF3_P3_Frogger.dll
+/Users/rvst/Desktop/M05_UF3_P3_Frogger-master/M05_UF3_P3_Frogger/bin/Debug/netcoreapp3.1/M05_UF3_P3_Frogger.pdb
+/Users/rvst/Desktop/M05_UF3_P3_Frogger-master/M05_UF3_P3_Frogger/obj/Debug/netcoreapp3.1/M05_UF3_P3_Frogger.csproj.AssemblyReference.cache
+/Users/rvst/Desktop/M05_UF3_P3_Frogger-master/M05_UF3_P3_Frogger/obj/Debug/netcoreapp3.1/M05_UF3_P3_Frogger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rvst/Desktop/M05_UF3_P3_Frogger-master/M05_UF3_P3_Frogger/obj/Debug/netcoreapp3.1/M05_UF3_P3_Frogger.AssemblyInfoInputs.cache
+/Users/rvst/Desktop/M05_UF3_P3_Frogger-master/M05_UF3_P3_Frogger/obj/Debug/netcoreapp3.1/M05_UF3_P3_Frogger.AssemblyInfo.cs
+/Users/rvst/Desktop/M05_UF3_P3_Frogger-master/M05_UF3_P3_Frogger/obj/Debug/netcoreapp3.1/M05_UF3_P3_Frogger.csproj.CoreCompileInputs.cache
+/Users/rvst/Desktop/M05_UF3_P3_Frogger-master/M05_UF3_P3_Frogger/obj/Debug/netcoreapp3.1/M05_UF3_P3_Frogger.dll
+/Users/rvst/Desktop/M05_UF3_P3_Frogger-master/M05_UF3_P3_Frogger/obj/Debug/netcoreapp3.1/M05_UF3_P3_Frogger.pdb
+/Users/rvst/Desktop/M05_UF3_P3_Frogger-master/M05_UF3_P3_Frogger/obj/Debug/netcoreapp3.1/M05_UF3_P3_Frogger.genruntimeconfig.cache
